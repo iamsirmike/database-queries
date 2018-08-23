@@ -1,0 +1,3 @@
+UPDATE SUPPLIER_T
+SET SupName='MicrosoftInco'
+WHERE SupCode='SUP2014001';

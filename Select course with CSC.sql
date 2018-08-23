@@ -1,0 +1,3 @@
+SELECT*
+FROM COURSE_T
+WHERE Course_ID like'CSC%';
